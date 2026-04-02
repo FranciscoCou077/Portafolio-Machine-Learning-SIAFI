@@ -57,3 +57,9 @@ Para replicar los resultados o explorar el código en tu entorno local:
 1. Clona este repositorio:
    ```bash
    git clone [https://github.com/TuUsuario/Portafolio-Machine-Learning-SIAFI.git](https://github.com/TuUsuario/Portafolio-Machine-Learning-SIAFI.git)
+
+## Autor
+
+**Francisco José Coutiño Morales**
+Estudiante de la Facultad de Ingeniería, UNAM. 
+Miembro de la Sociedad de Inteligencia Artificial de la Facultad de Ingeniería (SIAFI).
