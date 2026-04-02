@@ -61,5 +61,5 @@ Para replicar los resultados o explorar el código en tu entorno local:
 ## Autor
 
 **Francisco José Coutiño Morales**
-Estudiante de la Facultad de Ingeniería, UNAM. 
+Estudiante de la Facultad de Ingeniería, UNAM.
 Miembro de la Sociedad de Inteligencia Artificial de la Facultad de Ingeniería (SIAFI).
